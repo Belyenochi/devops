@@ -1,3 +1,9 @@
+/*
+    auther: Jason Tomas
+    nodeVersion: v10.15.3
+    npmVersion: v6.4.1
+*/
+
 const http = require('http');
 const crypto = require('crypto');
 
